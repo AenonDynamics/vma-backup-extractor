@@ -1,0 +1,4 @@
+backup/*
+!backup/.empty
+extract/*
+!extract/.empty
