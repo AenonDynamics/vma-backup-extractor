@@ -1,2 +1,4 @@
 backup/*
+!backup/.empty
 output/*
+!output/.empty
